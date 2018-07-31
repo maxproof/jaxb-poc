@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <bookList>
+        <book id="123" reviewer="Asch Hol">
+            <author>Harsch Loch</author>
+            <bookName>Real-time Analytics with Storm and Cassandra</bookName>
+        </book>
+        <book id="124" reviewer="Peter Fock">
+            <author>Nova Lick</author>
+            <bookName>Apache Cassandra Essential</bookName>
+        </book>
+    </bookList>
+    <location>Round Corner, Venus</location>
+    <name>Book Mark</name>
+</bookstore>
